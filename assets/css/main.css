@@ -105,11 +105,36 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
+	.span-image {
+		height: 2.5em;
+		width: 2.5em;
+	}
+	.basketball  {
+		padding: 1em 1em 1em 1em;
+		background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("./images/stephCurry.jpg");
+		background-repeat: no-repeat;
+        background-size: cover;
+	}
+	.movie  {
+		background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("./images/bladeRunner2049.jpg");
+		background-repeat: no-repeat;
+        background-size: cover;
+	}
+	.album  {
+		background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("./images/currents.jpeg");
+		background-repeat: no-repeat;
+        background-size: cover;
+	}
+	.world-cup{
+		background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("./images/croatia.jpg");
+		background-repeat: no-repeat;
+        background-size: cover;
+	}
 
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.55);
+		color: rgba(255, 255, 255, 0.9);
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
@@ -2546,11 +2571,11 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #90943e;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #21c109;
 				}
 
 /* Image */
@@ -3234,27 +3259,27 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #00015a;
+			background-color: #261c3e;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #8a1519;
+			background-color: #261c3e;
 		}
 
 		.wrapper.style2 {
-			background-color: #00015a;
+			background-color: #261c3e;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #00015a;
+			background-color: #261c3e;
 		}
 
 		.wrapper.style3 {
-			background-color: #8a1519;
+			background-color: #261c3e;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #8a1519;
+			background-color: #261c3e;
 		}
 
 		.wrapper.fullscreen {
