@@ -32,7 +32,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import laurentide from "./company/laurentide.png";
-import jac from "./company/jac.png";
+import jac from "./company/JAC.png";
 import concordia from "./company/concordia.png";
 
 import carrent from "./carrent.png";
