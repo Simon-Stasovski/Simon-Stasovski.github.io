@@ -31,6 +31,6 @@ jobs:
     - run: npm test
 
     env:
-      EMAILJS_SERVICE: ${{ secrets.EMAILJS_SERVICE }}
-      EMAILJS_TEMPLATE: ${{ secrets.EMAILJS_TEMPLATE }}
-      EMAILJS_PUBLIC_API_KEY: ${{ secrets.EMAILJS_PUBLIC_API_KEY }}      
+      VITE_EMAILJS_SERVICE: ${{ secrets.EMAILJS_SERVICE }}
+      VITE_EMAILJS_TEMPLATE: ${{ secrets.EMAILJS_TEMPLATE }}
+      VITE_EMAILJS_PUBLIC_API_KEY: ${{ secrets.EMAILJS_PUBLIC_API_KEY }}      
