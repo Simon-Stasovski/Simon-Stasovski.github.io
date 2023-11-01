@@ -46,7 +46,7 @@ const About = () => {
 
             <motion.p variants={fadeIn("", "", 0.1, 1)}
             className="mt-4 text-secondary test-[17px] max-w-3xl leading-[30px]">
-                I am a first year computer engineering student at Concordia University. 
+                I am a software engineering student at Concordia University. 
                 I have also completed a three year computer science DEC program at John Abbott College.
                 I invite you to learn more about me, my projects and work experience below. 
             </motion.p>

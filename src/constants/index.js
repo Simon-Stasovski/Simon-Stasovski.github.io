@@ -80,7 +80,7 @@ import {
     {
       title: 'My Current Goal',
       image: embedded,
-      details: 'My current goal is to learn more about the hardware side of computers. I look foward to learning about logic gates, embedded systems, FPGAs, and digital electronics. I am looking to accomplish this goal by studying computer engineering, creating relevant projects and participating in extracurricular activities relating to those topics.',
+      details: 'My current goal is to learn more about embedded systems and robotics software development. I am looking to accomplish this goal by studying relevant courses during software engineering degree, creating relevant projects and participating in extracurricular activities relating to those topics.',
     }
   ]
   const projects = [
@@ -172,7 +172,7 @@ import {
   
   const experiences = [
     {
-      title: "Computer Engineering Student",
+      title: "Software Engineering Student",
       company_name: "Concordia University",
       location: "Downtown Montreal",
       icon: concordia,
@@ -196,6 +196,7 @@ import {
       date: "Sep 2022 - Present",
       points: [
         "Automated repetitive processes using Python, C#, JavaScript and VB in UiPath.",
+        "Used API calls from our ERP software (IFS) to read and write information.",
         "Created and modified Views, Triggers and Procedures using PL/SQL in Oracle to automate and make tasks in our ERP more efficient.",
         "Documented business requirements and data quality issues and documented them in Confluence.",
         "Used Jira and GitHub to manage project tasks and to version control.",
